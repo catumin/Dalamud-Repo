@@ -1,0 +1,23 @@
+[
+    {
+        "Author": "isaiahcat, catumin",
+        "Name": "Quest Tracker",
+        "Description": "",
+        "InternalName": "QuestTracker",
+        "AssemblyVersion": "1.1.3.0",
+        "RepoUrl": "https://github.com/catumin/QuestTracker",
+        "IconUrl": "https://raw.githubusercontent.com/catumin/Dalamud-Repo/main/icons/QuestTracker.png",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "quest", "quests", "tracker", "meow"
+        ],
+        "DalamudApiLevel": 14,
+        "IsHide": "False",
+        "IsTestingExclusive": "False",
+        "LastUpdated": 0,
+        "DownloadCount": 0,
+        "DownloadLinkInstall": "https://github.com/catumin/QuestTracker/releases/download/1.1.3.0/1.1.3.0.zip",
+        "DownloadLinkTesting": "https://github.com/catumin/QuestTracker/releases/download/1.1.3.0/1.1.3.0.zip",
+        "DownloadLinkUpdate": "https://github.com/catumin/QuestTracker/releases/download/1.1.3.0/1.1.3.0.zip"
+    }
+]
