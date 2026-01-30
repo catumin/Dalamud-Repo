@@ -1,9 +1,9 @@
 [
     {
         "Author": "isaiahcat, catumin",
-        "Name": "Quest Tracker",
-        "Description": "",
-        "InternalName": "QuestTracker",
+        "Name": "Quest Tracker Reborn",
+        "Description": "For the quest completionist, now updated",
+        "InternalName": "QuestTrackerReborn",
         "AssemblyVersion": "1.1.3.0",
         "RepoUrl": "https://github.com/catumin/QuestTracker",
         "IconUrl": "https://raw.githubusercontent.com/catumin/Dalamud-Repo/main/icons/QuestTracker.png",
